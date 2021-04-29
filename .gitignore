@@ -1,1 +1,4 @@
-*.log | *.tmp | bin/ | node_module/
+*.log
+*.tmp
+bin/
+node_module/
