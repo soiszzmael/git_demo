@@ -1,3 +1,4 @@
 - Promotion feature
 - Stock feature
 - log main
+tag v1.0
