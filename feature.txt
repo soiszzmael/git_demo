@@ -1,2 +1,3 @@
-- Promotion
-- Stock
+- Promotion main
+- Stock main
+- log main
