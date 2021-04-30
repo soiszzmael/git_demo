@@ -1,2 +1,2 @@
-- Promotion
-- Stock
+- Promotion feature
+- Stock feature
